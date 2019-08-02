@@ -1,0 +1,10 @@
+
+# IDEA
+.idea/
+target/
+HttpGoParser.iml
+out/
+
+build/
+
+
