@@ -1,6 +1,5 @@
 package http
 
-import "fmt"
 
 type HttpRequest struct {
 	StartLine

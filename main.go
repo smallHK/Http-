@@ -12,7 +12,7 @@ import (
 /**
 解析起始行
  */
-func (p *StartLine) parseByte(bytes []byte) error {
+func (p * http.StartLine) parseByte(bytes []byte) error {
 	cur := 0
 	for !(bytes[cur] == 32) {
 		cur++
